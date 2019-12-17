@@ -5,7 +5,9 @@
 Разработать приложение для нахождения самого большого прямоугольного документа на его фотографии (изображении), выполнить преобразование его перспективы. 
 Пример:
 
-![Исходное изображение](https://github.com/bystrobank/opencv-test-app/testimage01.jpg | width=200) ![Исходное изображение](/testimage01_points.jpg | width=200) ![Исходное изображение](/testimage01_perspectivetransform.jpg | width=200)
+![Исходное изображение](/testimage01.jpg?raw=true | width=200)
+![Исходное изображение](/testimage01_points.jpg?raw=true | width=200)
+![Исходное изображение](/testimage01_perspectivetransform.jpg?raw=true | width=200)
 
 ## Требования
 * Язык программирования: C++ или Python,
