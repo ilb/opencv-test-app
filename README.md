@@ -5,8 +5,7 @@
 Разработать приложение для нахождения самого большого прямоугольного документа на его фотографии (изображении), выполнить преобразование его перспективы. 
 Пример:
 
-![Исходное изображение](/testimage01.jpg?raw=true =200x)![Исходное изображение](/testimage01_points.jpg?raw=true =200x)
-![Исходное изображение](/testimage01_perspectivetransform.jpg?raw=true =200x)
+<img src="testimage01.jpg" width="200px"> <img src="testimage01_points.jpg" width="200px"> <img src="testimage01_perspectivetransform.jpg" width="200px">
 
 ## Требования
 * Язык программирования: C++ или Python,
